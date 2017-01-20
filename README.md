@@ -3,8 +3,14 @@ Espacio para proponer las charlas a dar en los meetups de [Free Code Camp Buenos
 
 (basado en el repo de [MeetupJS](https://github.com/meetupjs-ar/charlas/))
 
+
+## Requisitos
+**Tener ganas de dar una charla** sobre algún tema relacionado a los que tocamos en nuestra meetup, contarnos sobre algún proyecto que estés haciendo, alguna herramienta que empezaste a usar, tus experiencias con alguna tecnología particular, etc.
+
+**No buscamos expertos, sino gente que quiera compartir algo con el resto.** Esto forma parte del aprendizaje, para todos.
+
 ## Formato
-- Cada charla tiene una duración máxima de 20 minutos. Sin embargo, se pueden evaluar excepciones.
+Cada charla tiene una duración máxima de 20 minutos. Sin embargo, se pueden evaluar excepciones.
 
 ## ¿Cómo?
 Es fácil. Abrí un [issue](https://github.com/FreeCodeCampBA/lightning-talks/) para proponer una charla, después nos contactamos con vos para coordinar una fecha.
