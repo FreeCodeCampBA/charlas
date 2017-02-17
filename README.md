@@ -13,11 +13,14 @@ Espacio para proponer las charlas a dar en los meetups de [Free Code Camp Buenos
 Cada charla tiene una duración máxima de 20 minutos. Sin embargo, se pueden evaluar excepciones.
 
 ## ¿Cómo?
-Es fácil. Abrí un [issue](https://github.com/FreeCodeCampBA/lightning-talks/) para proponer una charla con el siguiente formato:
+Es fácil. 
 
+1. Abrí un [issue](https://github.com/FreeCodeCampBA/lightning-talks/) para proponer una charla con el siguiente formato en el título: 
 `Nombre de la charla - Autor - Fecha (dd/MM/YYYY)`
 
-Después nos contactamos con vos para coordinar una fecha.
+2. Completá la información que te pide el template.
+
+Después nos contactamos con vos para coordinar una fecha (en principio vamos a tener 1 charla mensual).
 
 Si tenés alguna pregunta con respecto a tu charla o al evento, por favor agregá un comentario en el issue.
 
