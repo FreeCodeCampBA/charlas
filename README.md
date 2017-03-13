@@ -41,3 +41,4 @@ Por favor compartí una **URL** a tus slides. Gracias!
 | <a href="https://goo.gl/38mJub" target="_blank">Gulp.js: Things everyone hate about work, repetitive tasks </a> | Leonardo Galante       | 20/11/16 |
 | <a href="https://goo.gl/oKugww" target="_blank">NodeJS: Cómo usar JavaScript en todos lados</a> | Nicolás Quiroz | 04/12/16 |
 | <a href="https://goo.gl/kZiBUf" target="_blank">React al rescate</a> | Joaquín Miguez | 05/03/17 |
+| <a href="https://goo.gl/CKedSY" target="_blank">Estrategias para resolver problemas</a> | Nicolás Quiroz | 12/03/17 |
