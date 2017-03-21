@@ -1,4 +1,4 @@
-<!--- Para el título del issue, usar el formato 'Nombre de la charla - Autor - DD/MM/YYYY --->
+<!--- Para el título del issue, usar el formato 'Nombre de la charla - Autor --->
 ## Título de la charla:
 
 ## Descripción:
@@ -8,5 +8,3 @@
 - Twitter:
 - Blog:
 - Sitio personal:
-
-## Fecha:
