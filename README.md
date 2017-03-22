@@ -1,6 +1,6 @@
-# Charlas para Free Code Camp Buenos Aires [![Unite a nuestro Slack!](https://freecodecampba.herokuapp.com/badge.svg)](http://freecodecampba.org/chat)
+# Charlas para freeCodeCamp Buenos Aires [![Unite a nuestro Slack!](https://freecodecampba.herokuapp.com/badge.svg)](http://freecodecampba.org/chat)
 
-Espacio para proponer charlas a dar en los meetups de **[`Free Code Camp Buenos Aires`](https://www.freecodecampba.org)**.
+Espacio para proponer charlas a dar en los meetups de **[`freeCodeCamp Buenos Aires`](https://www.freecodecampba.org)**.
 
 (basado en el repo de **[`MeetupJS`](https://github.com/meetupjs-ar/charlas/))**.
 
@@ -19,7 +19,7 @@ Cada charla tiene una duración máxima de 20 minutos. Sin embargo, se pueden ev
 
 Es fácil. 
 
-1. Abrí un **[`issue`](https://github.com/FreeCodeCampBA/lightning-talks/)** para proponer una charla con el siguiente formato en el título: 
+1. Abrí un **[`issue`](https://github.com/freeCodeCampBA/lightning-talks/)** para proponer una charla con el siguiente formato en el título: 
 **`Nombre de la charla - Autor - Fecha (dd/MM/YYYY)`**.
 2. Completá la información que te pide el template.
 
