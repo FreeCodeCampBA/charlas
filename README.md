@@ -1,6 +1,6 @@
-# Charlas para freeCodeCamp Buenos Aires [![Unite a nuestro Slack!](https://freecodecampba.herokuapp.com/badge.svg)](http://freecodecampba.org/chat)
+# Charlas para freeCodeCamp BA [![Unite a nuestro Slack!](https://freecodecampba.herokuapp.com/badge.svg)](http://freecodecampba.org/chat)
 
-Espacio para proponer charlas a dar en los meetups de **[`freeCodeCamp Buenos Aires`](https://www.freecodecampba.org)**.
+Espacio para proponer charlas a dar en los meetups de **[`freeCodeCamp BA`](https://www.freecodecampba.org)**.
 
 (basado en el repo de **[`MeetupJS`](https://github.com/meetupjs-ar/charlas/))**.
 
