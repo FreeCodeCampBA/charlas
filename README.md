@@ -19,17 +19,19 @@ Cada charla tiene una duración máxima de 20 minutos. Sin embargo, se pueden ev
 
 Es fácil. 
 
-1. Abrí un **[`issue`](https://github.com/freeCodeCampBA/lightning-talks/)** para proponer una charla con el siguiente formato en el título: 
+1. Abrí un **[`issue`](https://github.com/FreeCodeCampBA/charlas/issues)** para proponer una charla con el siguiente formato en el título: 
 **`Nombre de la charla - Autor - Fecha (dd/MM/YYYY)`**.
-2. Completá la información que te pide el template.
+2. Completá la información que te pide el template. La fecha podés dejarla vacía.
 
-Después nos contactamos con vos para coordinar una fecha (en principio vamos a tener 1 charla mensual).
+Después nos contactamos con vos para coordinar una fecha.
 
-Si tenés alguna pregunta con respecto a tu charla o al evento, por favor agregá un comentario en el issue.
+Si tenés alguna pregunta con respecto a tu charla o al evento, por favor agregá un comentario en el issue y escribinos por el **[`chat`](https://freecodecampba.org/chat)**.
 
 ## Después del evento...
 
-Por favor compartí una **URL** a tus slides. Gracias!
+Por favor compartí una **URL** a tus slides. 
+
+¡Gracias por participar!
 
 ---
 
