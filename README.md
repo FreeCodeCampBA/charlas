@@ -35,11 +35,16 @@ Por favor compartí una **URL** a tus slides. Gracias!
 
 ## Charlas anteriores
 
-| Charla                                                                  | Autor         | Fecha |
-| -------------                                                           | ------------- | ----- |
-| <a href="https://goo.gl/3NaQMx" target="_blank">Preprocesadores CSS</a> | Ariel Gerstein | 06/11/16 |
-| <a href="https://goo.gl/38mJub" target="_blank">Gulp.js: Things everyone hate about work, repetitive tasks </a> | Leonardo Galante       | 20/11/16 |
-| <a href="https://goo.gl/oKugww" target="_blank">NodeJS: Cómo usar JavaScript en todos lados</a> | Nicolás Quiroz | 04/12/16 |
-| <a href="https://goo.gl/kZiBUf" target="_blank">React al rescate</a> | Joaquín Miguez | 05/03/17 |
-| <a href="https://goo.gl/CKedSY" target="_blank">Estrategias para resolver problemas</a> | Nicolás Quiroz | 12/03/17 |
-| <a href="https://goo.gl/tV1p1i" target="_blank">Ruby On Rails</a> | Hugo David Farji | 23/07/17 |
+| Charla        | Autor         | Fecha         |
+| ------------- | ------------- | ------------- |
+| [Ruby On Rails](https://goo.gl/tV1p1i) | [Hugo David Farji](https://twitter.com/hdf1986) | 23/07/17 |
+| [Estrategias para resolver problemas](https://goo.gl/CKedSY) | [Nicolás Quiroz](https://twitter.com/_nhsz) | 12/03/17 |
+| [React al rescate](https://goo.gl/kZiBUf) | [Joaquín Miguez](https://twitter.com/joaqtor) | 05/03/17 |
+| [NodeJS: Cómo usar JavaScript en todos lados](https://goo.gl/oKugww) | [Nicolás Quiroz](https://twitter.com/_nhsz) | 04/12/16 |
+| [Gulp.js: Things everyone hate about work, repetitive tasks](https://goo.gl/38mJub) | [Leonardo Galante](https://twitter.com/leogln_) | 20/11/16 |
+| [Preprocesadores CSS](https://goo.gl/3NaQMx) | [Ariel Gerstein](https://twitter.com/arielger_) | 06/11/16 |
+
+
+
+
+
