@@ -44,7 +44,7 @@ Por favor compartí una **URL** a tus slides.
 | [Estrategias para resolver problemas](https://goo.gl/CKedSY) | [Nicolás Quiroz](https://twitter.com/_nhsz) | 12/03/17 |
 | [React al rescate](https://goo.gl/kZiBUf) | [Joaquín Miguez](https://twitter.com/joaqtor) | 05/03/17 |
 | [NodeJS: Cómo usar JavaScript en todos lados](https://goo.gl/oKugww) | [Nicolás Quiroz](https://twitter.com/_nhsz) | 04/12/16 |
-| [Gulp.js: Things everyone hate about work, repetitive tasks](https://goo.gl/38mJub) | [Leonardo Galante](https://twitter.com/leogln_) | 20/11/16 |
+| [Gulp.js: Things everyone hate about work, repetitive tasks](https://goo.gl/38mJub) | [Leonardo Galante](https://twitter.com/lndgalante) | 20/11/16 |
 | [Preprocesadores CSS](https://goo.gl/3NaQMx) | [Ariel Gerstein](https://twitter.com/arielger_) | 06/11/16 |
 
 
