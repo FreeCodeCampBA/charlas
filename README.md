@@ -39,6 +39,7 @@ Por favor compartí una **URL** a tus slides.
 
 | Charla        | Autor         | Fecha         |
 | ------------- | ------------- | ------------- |
+| [Microservicios FTW](https://goo.gl/6JgJnT) | [Cristhian Duran](https://www.twitter.com/durancristhian) | 27/08/17 |
 | [Manipulación del DOM](https://goo.gl/qybPK8) | [Roy Eden](https://twitter.com/royede) | 06/08/17 |
 | [Introducción a Ruby On Rails](https://goo.gl/tV1p1i) | [Hugo David Farji](https://twitter.com/hdf1986) | 23/07/17 |
 | [Estrategias para resolver problemas](https://goo.gl/CKedSY) | [Nicolás Quiroz](https://twitter.com/_nhsz) | 12/03/17 |
