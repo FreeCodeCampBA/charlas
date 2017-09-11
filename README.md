@@ -40,7 +40,7 @@ Por favor compartí una **URL** a tus slides.
 | Charla        | Autor         | Fecha         |
 | ------------- | ------------- | ------------- |
 | [Introducción A Git](https://goo.gl/d31sDM) | [Patricio Rodriguez](https://twitter.com/patao_) | 10/09/17 |
-| [Microservicios FTW](https://goo.gl/6JgJnT) | [Cristhian Duran](https://www.twitter.com/durancristhian) | 27/08/17 |
+| [Microservicios en NodeJS](https://goo.gl/6JgJnT) | [Cristhian Duran](https://www.twitter.com/durancristhian) | 27/08/17 |
 | [Manipulación del DOM](https://goo.gl/qybPK8) | [Roy Eden](https://twitter.com/royede) | 06/08/17 |
 | [Introducción a Ruby On Rails](https://goo.gl/tV1p1i) | [Hugo David Farji](https://twitter.com/hdf1986) | 23/07/17 |
 | [Estrategias para resolver problemas](https://goo.gl/CKedSY) | [Nicolás Quiroz](https://twitter.com/_nhsz) | 12/03/17 |
@@ -49,7 +49,8 @@ Por favor compartí una **URL** a tus slides.
 | [Gulp.js: Things everyone hate about work, repetitive tasks](https://goo.gl/38mJub) | [Leonardo Galante](https://twitter.com/lndgalante) | 20/11/16 |
 | [Preprocesadores CSS](https://goo.gl/3NaQMx) | [Ariel Gerstein](https://twitter.com/arielger_) | 06/11/16 |
 
+## Charlas grabadas
 
-
-
-
+- [Introducción a Ruby On Rails](https://www.youtube.com/watch?v=kDhoTB_fjzo)
+- [Microservicios en NodeJS](https://www.youtube.com/watch?v=cdYatPKNYJA)
+- [Introducción A Git](https://www.youtube.com/watch?v=4fbzjJH5LIQ)
