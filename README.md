@@ -20,8 +20,8 @@ Cada charla tiene una duración máxima de 20 minutos. Sin embargo, se pueden ev
 Es fácil. 
 
 1. Abrí un **[`issue`](https://github.com/FreeCodeCampBA/charlas/issues)** para proponer una charla con el siguiente formato en el título: 
-**`Nombre de la charla - Autor - Fecha (dd/MM/YYYY)`**.
-2. Completá la información que te pide el template. La fecha podés dejarla vacía.
+**`Nombre de la charla - Autor`**.
+2. Completá la información que te pide el template.
 
 Después nos contactamos con vos para coordinar una fecha.
 
