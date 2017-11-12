@@ -39,6 +39,7 @@ Por favor compartí una **URL** a tus slides.
 
 | Charla                                                                              | Autor                                                     | Fecha    |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------- | -------- |
+| [Introducción a la Programación Funcional](https://goo.gl/GkC3oE)                                     | [Norman Perrin](https://twitter.com/NormanPerrinOK)        | 11/11/17 |
 | [ES2016/ES2017 Features](https://goo.gl/BGXpWj)                                     | [Leonardo Galante](https://twitter.com/lndgalante)        | 29/10/17 |
 | [Introducción A JWT](https://goo.gl/3aWahi)                                         | [Hugo David Farji](https://twitter.com/hdf1986)           | 24/09/17 |
 | [Introducción A Git](https://goo.gl/d31sDM)                                         | [Patricio Rodriguez](https://twitter.com/patao_)          | 10/09/17 |
