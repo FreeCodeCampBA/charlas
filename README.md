@@ -2,8 +2,7 @@
 
 Espacio para proponer charlas a dar en los meetups de **[`freeCodeCamp BA`](https://www.freecodecampba.org)**.
 
-(basado en el repo de **[`MeetupJS`](https://github.com/meetupjs-ar/charlas/))**.
-
+Basado en el repo de **[`MeetupJS`](https://github.com/meetupjs-ar/charlas/)**.
 
 ## Requisitos
 
@@ -17,10 +16,9 @@ Cada charla tiene una duración máxima de 20 minutos. Sin embargo, se pueden ev
 
 ## ¿Cómo?
 
-Es fácil. 
+Es fácil.
 
-1. Abrí un **[`issue`](https://github.com/FreeCodeCampBA/charlas/issues)** para proponer una charla con el siguiente formato en el título: 
-**`Nombre de la charla - Autor`**.
+1. Abrí un **[`issue`](https://github.com/FreeCodeCampBA/charlas/issues)** para proponer una charla con el siguiente formato en el título: **`Nombre de la charla - Autor`**.
 2. Completá la información que te pide el template.
 
 Después nos contactamos con vos para coordinar una fecha.
@@ -29,7 +27,7 @@ Si tenés alguna pregunta con respecto a tu charla o al evento, por favor agreg�
 
 ## Después del evento...
 
-Por favor compartí una **URL** a tus slides. 
+Por favor compartí una **URL** a tus slides.
 
 ¡Gracias por participar!
 
@@ -39,7 +37,7 @@ Por favor compartí una **URL** a tus slides.
 
 | Charla                                                                              | Autor                                                     | Fecha    |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------- | -------- |
-| [Introducción a la Programación Funcional](https://goo.gl/GkC3oE)                                     | [Norman Perrin](https://twitter.com/NormanPerrinOK)        | 11/11/17 |
+| [Introducción a la Programación Funcional](https://goo.gl/GkC3oE)                   | [Norman Perrin](https://twitter.com/NormanPerrinOK)       | 11/11/17 |
 | [ES2016/ES2017 Features](https://goo.gl/BGXpWj)                                     | [Leonardo Galante](https://twitter.com/lndgalante)        | 29/10/17 |
 | [Introducción A JWT](https://goo.gl/3aWahi)                                         | [Hugo David Farji](https://twitter.com/hdf1986)           | 24/09/17 |
 | [Introducción A Git](https://goo.gl/d31sDM)                                         | [Patricio Rodriguez](https://twitter.com/patao_)          | 10/09/17 |
@@ -54,6 +52,6 @@ Por favor compartí una **URL** a tus slides.
 
 ## Charlas grabadas
 
-- [Introducción a Ruby On Rails](https://www.youtube.com/watch?v=kDhoTB_fjzo)
-- [Microservicios en NodeJS](https://www.youtube.com/watch?v=cdYatPKNYJA)
-- [Introducción A Git](https://www.youtube.com/watch?v=4fbzjJH5LIQ)
+* [Introducción a Ruby On Rails](https://www.youtube.com/watch?v=kDhoTB_fjzo)
+* [Microservicios en NodeJS](https://www.youtube.com/watch?v=cdYatPKNYJA)
+* [Introducción A Git](https://www.youtube.com/watch?v=4fbzjJH5LIQ)
