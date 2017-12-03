@@ -38,7 +38,7 @@ Por favor compartí una **URL** a tus slides.
 | Charla                                                                              | Autor                                                     | Fecha    |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------- | -------- |
 | [Workshop: Rompiendo el Mundo Binario con Vue.js](https://goo.gl/yxebhK) | [Ignacio Anaya](https://twitter.com/ianaya89)       | 2/12/17 |
-| [Rompiendo el Mundo Binario con Vue.js](https://goo.gl/6s4Z9g) | [Ignacio Anaya](https://twitter.com/ianaya89)       | 2/12/17 |
+| [Rompiendo el Mundo Binario con Vue.js](https://goo.gl/62CDTw) | [Ignacio Anaya](https://twitter.com/ianaya89)       | 2/12/17 |
 | [Workshop: Building freeCodeCamp's Dungeon Crawler Game with React](https://goo.gl/ZRj6HH) | [Ariel Gerstein](https://twitter.com/arielger_) | 26/11/17 |
 | [Introducción a la Programación Funcional](https://goo.gl/GkC3oE) | [Norman Perrin](https://twitter.com/NormanPerrinOK) | 11/11/17 |
 | [Lightning talk: ES2016/ES2017 Features](https://goo.gl/BGXpWj) | [Leonardo Galante](https://twitter.com/lndgalante) | 29/10/17 |
