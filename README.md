@@ -37,6 +37,7 @@ Por favor compartí una **URL** a tus slides.
 
 | Charla                                                                              | Autor                                                     | Fecha    |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------- | -------- |
+| [Cómo construir productos digitales que funcionan](https://goo.gl/7J81jx) | [Lu Godoy](https://twitter.com/tocateunvals) | 16/12/17 |
 | [Workshop: Rompiendo el Mundo Binario con Vue.js](https://goo.gl/yxebhK) | [Ignacio Anaya](https://twitter.com/ianaya89)       | 2/12/17 |
 | [Rompiendo el Mundo Binario con Vue.js](https://goo.gl/62CDTw) | [Ignacio Anaya](https://twitter.com/ianaya89)       | 2/12/17 |
 | [Workshop: Building freeCodeCamp's Dungeon Crawler Game with React](https://goo.gl/ZRj6HH) | [Ariel Gerstein](https://twitter.com/arielger_) | 26/11/17 |
