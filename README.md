@@ -35,8 +35,9 @@ Por favor compartí una **URL** a tus slides.
 
 ## Charlas anteriores
 
-| Charla                                                                              | Autor                                                     | Fecha    |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------- | -------- |
+| Charla | Autor | Fecha |
+| ------ | ----- | ----- |
+| [Coding interviews: Una guía sobre los procesos actuales en entrevistas de código](https://goo.gl/df4atW) | [Gabriel Miranda](https://twitter.com/frontendingme) | 10/03/18 |
 | [Cómo construir productos digitales que funcionan](https://goo.gl/7J81jx) | [Lu Godoy](https://twitter.com/tocateunvals) | 16/12/17 |
 | [Workshop: Rompiendo el Mundo Binario con Vue.js](https://goo.gl/yxebhK) | [Ignacio Anaya](https://twitter.com/ianaya89)       | 2/12/17 |
 | [Rompiendo el Mundo Binario con Vue.js](https://goo.gl/62CDTw) | [Ignacio Anaya](https://twitter.com/ianaya89)       | 2/12/17 |
