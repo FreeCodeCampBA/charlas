@@ -37,6 +37,8 @@ Por favor compartí una **URL** a tus slides.
 
 | Charla | Autor | Fecha |
 | ------ | ----- | ----- |
+| [Workshop CSS: Grid y Flex](https://github.com/guadalazzo/workshop-css-grid) | [Guadalupe Lazzo](https://twitter.com/Waduchis) | 7/4/18 |
+| [Mis mejores amigos en CSS: Grid y Flex](https://docs.google.com/presentation/d/1f73IJ3vb2ZXOIrwqDx6ExrjrYnavgCJH0TqpKfSVIXU/edit#slide=id.p) | [Guadalupe Lazzo](https://twitter.com/Waduchis) | 7/4/18 |
 | [Coding interviews: Una guía sobre los procesos actuales en entrevistas de código](http://slides.com/gabrielmiranda-1/deck-2#/) | [Gabriel Miranda](https://twitter.com/frontendingme) | 10/03/18 |
 | [Cómo construir productos digitales que funcionan](https://docs.google.com/presentation/d/1Lu-uD_j6qF2xOazfig3KSNC_bcPoZhYQhvpGJiffXR8/edit#slide=id.g2a44e3d5b6_0_6) | [Lu Godoy](https://twitter.com/tocateunvals) | 16/12/17 |
 | [Workshop: Rompiendo el Mundo Binario con Vue.js](https://github.com/ianaya89/workshop-vuejs/) | [Ignacio Anaya](https://twitter.com/ianaya89)       | 2/12/17 |
@@ -46,7 +48,7 @@ Por favor compartí una **URL** a tus slides.
 | [Lightning talk: ES2016/ES2017 Features](https://es2016-2017-features.now.sh/) | [Leonardo Galante](https://twitter.com/lndgalante) | 29/10/17 |
 | [Introducción A JWT](https://jwt-talk.now.sh/#0) | [Hugo David Farji](https://twitter.com/hdf1986) | 24/09/17 |
 | [Introducción A Git](https://charla-de-git.now.sh/#/home) | [Patricio Rodriguez](https://twitter.com/patao_) | 10/09/17 |
-| [Microservicios en NodeJS](https://gist.github.com/durancristhian/65e7282cdbe043faddcee18f9e118230) | [Cristhian Duran](https://www.twitter.com/durancristhian) | 27/08/17 |
+| [Microservicios en NodeJS](https://gist.github.com/durancristhian/65e7282cdbe043faddcee18f9e118230) | [Cristhian Duran](https://twitter.com/durancristhian) | 27/08/17 |
 | [Manipulación del DOM](http://slides.com/roye/dom_101_es#/) | [Roy Eden](https://twitter.com/royede) | 06/08/17 |
 | [Introducción a Ruby On Rails](https://gitpitch.com/hdf1986/rails-presentation) | [Hugo David Farji](https://twitter.com/hdf1986) | 23/07/17 |
 | [Lightning talk: Estrategias para resolver problemas](https://nicolasquiroz.com/problem-solving-strategies/) | [Nicolás Quiroz](https://twitter.com/_nhsz) | 12/03/17 |
