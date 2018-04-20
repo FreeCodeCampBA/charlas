@@ -59,6 +59,7 @@ Por favor compartí una **URL** a tus slides.
 
 ## Charlas grabadas
 
+* [Cómo construir productos digitales que funcionan](https://www.youtube.com/watch?v=yQizxewvK48&t)
 * [Introducción a Ruby On Rails](https://www.youtube.com/watch?v=kDhoTB_fjzo)
 * [Microservicios en NodeJS](https://www.youtube.com/watch?v=cdYatPKNYJA)
 * [Introducción A Git](https://www.youtube.com/watch?v=4fbzjJH5LIQ)
