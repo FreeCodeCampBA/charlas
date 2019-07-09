@@ -37,6 +37,7 @@ Por favor compartí una **URL** a tus slides.
 
 | Charla                                                                                                                                                                | Autor                                                   | Fecha    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- |
+| [ Workshop: Arte generativo con P5.js](https://bit.ly/workshopArteGenerativo)                                                                                         | [Ezequiel Collazo](https://www.twitter.com/uglypixel/)  | 04/07/19 |
 | [ Arte generativo con P5.js](https://www.twitch.tv/videos/447429926)                                                                                                  | [Ezequiel Collazo](https://www.twitter.com/uglypixel/)  | 04/07/19 |
 | [ Diversidad en tech: Cómo dejar de hablar y empezar a hacer algo.](https://docs.google.com/presentation/d/1D8YTrl019O_8nEtP4L4TRUpkyx_n7iiDG5GluQCWdF8/)             | [Sofía Estévez](https://twitter.com/oximoronbaby)       | 24/05/19 |
 | Story telling - Migrando de un stack viejo a React & Node -                                                                                                           | Chris Contarino                                         | 24/05/19 |
